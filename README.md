@@ -10,4 +10,4 @@
   - Sass
   - Jquery
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=imdhruv99&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=lukesherwood&show_icons=true)
