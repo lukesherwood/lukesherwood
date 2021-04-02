@@ -14,10 +14,9 @@
   [![Hikable](https://github-readme-stats.vercel.app/api/pin/?username=lukesherwood&repo=hikable-api&show_owner=true)](https://github.com/lukesherwood/hikable-api)
   [![Mowbray Recipes](https://github-readme-stats.vercel.app/api/pin/?username=lukesherwood&repo=mowbrayrecipes-api&show_owner=true)](https://github.com/lukesherwood/mowbrayrecipes-api)
 
-<p align="center">
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=lukesherwood&show_icons=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lukesherwood&layout=compact))
-</p>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lukesherwood&layout=compact)
 
 <p align="center">
   <i>Let's connect and chat!</i>
