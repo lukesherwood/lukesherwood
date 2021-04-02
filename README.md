@@ -10,4 +10,9 @@
   - Sass
   - Jquery
 
+### Projects
+  [![Hikable](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name&show_owner=true)](https://github.com/lukesherwood/hikable-api)
+  [![Mowbray Recipes](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name&show_owner=true)](https://github.com/lukesherwood/mowbrayrecipes-api)
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=lukesherwood&show_icons=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lukesherwood)
