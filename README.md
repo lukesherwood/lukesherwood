@@ -4,8 +4,8 @@
   - **[Hikable](https://hikable.netlify.app)** web app - find and save hiking tracks in New Zealand
   - **[Mowbray Recipes](https://mowbrayrecipes.netlify.app)** - A rails and react web app for my family to save and share their recipes without Facebook
 - 🌱 I’m currently learning 
-  - Rspec
   - CS50
+  - PHP
 <hr>
 
 ### Projects
