@@ -1,16 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-  - **[Hikable](https://hikable.netlify.app)** web app - find and save hiking tracks in New Zealand
-  - **[Mowbray Recipes](https://mowbrayrecipes.netlify.app)** - A rails and react web app for my family to save and share their recipes without Facebook
+   - **[BeerFinda](https://beerfinda.co.nz)** A New Zealand website for finding beer merchants that deliver. We have an algorithm that recommends beer based on personal preferences.
+     I created the Nuxt SSR front end entirely by myself - but it's still a work in progress! 
+     
 - 🌱 I’m currently learning 
-  - CS50
-  - PHP
-<hr>
-
-### Projects
-  [![Hikable](https://github-readme-stats.vercel.app/api/pin/?username=lukesherwood&repo=hikable-api&show_owner=true)](https://github.com/lukesherwood/hikable-api)
-  [![Mowbray Recipes](https://github-readme-stats.vercel.app/api/pin/?username=lukesherwood&repo=mowbrayrecipes-api&show_owner=true)](https://github.com/lukesherwood/mowbrayrecipes-api)
+  - AstroJS
+  - Kubernetes
 <hr>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=lukesherwood&show_icons=true)
