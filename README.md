@@ -8,6 +8,7 @@
    - Javascript: Svelte, Vue, Nuxt, React (though maybe a bit rusty now)
    - Ruby on Rails
    - Phoenix
+   - CSS/SCSS/HTML
      
 - 🌱 I’m currently learning 
   - AstroJS
