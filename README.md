@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-   - **[BeerFinda](https://beerfinda.co.nz)** A New Zealand website for finding beer merchants that deliver. We have an algorithm that recommends beer based on personal preferences.
-     I created the Nuxt SSR front end entirely by myself - but it's still a work in progress!
+   - **[SitStandTimer](https://sitstandtimer.netlify.app)** A modern, responsive timer application designed to promote healthy movement habits throughout your workday. Alternate between sitting, standing, and walking with customizable intervals and smart notifications. See [Repo](https://github.com/lukesherwood/sitstandtimer)
      
 - I feel I'm proficient in:
-   - Javascript: Svelte, Vue, Nuxt, React (though maybe a bit rusty now)
+   - JavaScript: Svelte, Vue, Nuxt, React (though maybe a bit rusty now)
+   - TypeScript
    - Ruby on Rails
    - Phoenix
    - CSS/SCSS/HTML
